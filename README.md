@@ -6,4 +6,4 @@ The posts will be in the linked HackMd.io files because they render LateX easily
 
 Enjoy!
 
-[09.26](https://hackmd.io/cwMLiN8uTX2XADDeFEq0JA): First post, working through problems and Go intro to variables and functions.
+[09.26](https://hackmd.io/cwMLiN8uTX2XADDeFEq0JA): First post, working through ARS problems.
