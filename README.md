@@ -7,3 +7,9 @@ The posts will be in the linked HackMd.io files because they render LateX easily
 Enjoy!
 
 [09.26](https://hackmd.io/cwMLiN8uTX2XADDeFEq0JA): First post, working through ARS problems.
+
+
+
+
+### Note:
+Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
