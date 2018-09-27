@@ -6,7 +6,7 @@ The posts will be in the linked HackMd.io files because they render LateX easily
 
 Enjoy!
 
-[09.26](https://hackmd.io/cwMLiN8uTX2XADDeFEq0JA): First post, working through String Re-writting ARS problems.
+[09.26](https://hackmd.io/cwMLiN8uTX2XADDeFEq0JA): First post, working through String re-writting ARS problems.
 
 
 
