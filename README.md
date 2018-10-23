@@ -10,7 +10,7 @@ Enjoy!
 
 [10.16](https://hackmd.io/s/SkAW-Jjt7): Going through the basics of Go!
 
-
+[10.22](https://hackmd.io/s/B1bPV-HiQ): A Short introduction on Termination.
 
 
 ### Note:
