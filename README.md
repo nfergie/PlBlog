@@ -10,6 +10,8 @@ Enjoy!
 
 [10.16](https://hackmd.io/s/SkAW-Jjt7): Going through the basics of Go!
 
+[10.23](https://hackmd.io/s/rJ2DpM6iQ): Some good information on Relations. (Published after the following post, but it is worth it to go in the order posted here)
+
 [10.22](https://hackmd.io/s/B1bPV-HiQ): A Short introduction on Termination.
 
 
