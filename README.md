@@ -14,6 +14,7 @@ Enjoy!
 
 [10.22](https://hackmd.io/s/B1bPV-HiQ): A Short introduction on Termination.
 
+[10.29](https://hackmd.io/s/S1WcSZhom): Go Control Statements
 
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
