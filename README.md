@@ -16,5 +16,9 @@ Enjoy!
 
 [10.29](https://hackmd.io/s/S1WcSZhom): Go Control Statements
 
+[11.21](https://hackmd.io/s/Sy4HXUH37): Termination Exercises and practice.
+
+
+
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
