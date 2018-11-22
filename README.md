@@ -20,5 +20,7 @@ Enjoy!
 
 [11.21](https://hackmd.io/s/H1CALGmAX): Writing termination exercises in Go and Fibonacci Recursive in Go
 
+[11.22](https://hackmd.io/s/SybxrDmCX): Concurrency: Goroutines 1
+
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
