@@ -18,9 +18,14 @@ Enjoy!
 
 [11.21](https://hackmd.io/s/Sy4HXUH37): Termination Exercises and practice.
 
-[11.21](https://hackmd.io/s/H1CALGmAX): Writing termination exercises in Go and Fibonacci Recursive in Go
+[11.21](https://hackmd.io/s/H1CALGmAX): Writing termination exercises in Go and Fibonacci Recursive Algorithm
 
-[11.22](https://hackmd.io/s/SybxrDmCX): Concurrency: Goroutines 1
+[11.22](https://hackmd.io/s/SybxrDmCX): Concurrency: Goroutines 1 Channels
+
+[11.23](https://hackmd.io/s/SJMIcjBA7): Concurrency: Goroutines 2 Channels
+
+[11.23](https://hackmd.io/s/HkhAmzUA7): Concurrency: Goroutines 3 Select Statements
+
 
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
