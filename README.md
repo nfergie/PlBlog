@@ -26,6 +26,8 @@ Enjoy!
 
 [11.23](https://hackmd.io/s/HkhAmzUA7): Concurrency: Goroutines 3 Select Statements
 
+[12.15](https://hackmd.io/s/SJqMrhj0X): Blockchain and Project Introduction
+
 
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
