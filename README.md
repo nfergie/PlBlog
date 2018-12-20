@@ -29,5 +29,7 @@ Enjoy!
 [12.15](https://hackmd.io/s/SJqMrhj0X): Blockchain and Project Introduction
 
 [12.15](https://hackmd.io/s/SylE1RGeV): Partial Correctness of a Loop
+
+[12.19](https://hackmd.io/s/S12--ePgN): My Blockchain in Go
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
