@@ -37,5 +37,9 @@ Enjoy!
 [12.19](https://hackmd.io/s/S12--ePgN): My Blockchain in Go
 
 [12.20](https://hackmd.io/s/HyDe5lceV): Final Poost.
+
+### Final Project:
+[Here's](https://github.com/nfergie/SimpleBlockchain) a quick link to the final project
+
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
