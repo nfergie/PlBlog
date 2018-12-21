@@ -4,13 +4,17 @@ In this repo I will be posting blog posts related to classwork in Programming La
 
 The posts will be in the linked HackMd.io files because they render LateX easily.
 
+Lastly, please read in the order here as they will make most sense that way, not by date posted.
+
 Enjoy!
 
 [09.26](https://hackmd.io/s/SJJcTSFYQ): First post, working through String rewriting ARS problems.
 
+[12.21](https://hackmd.io/s/ByzDsF_e4): Fibnoacci as an ARS
+
 [10.16](https://hackmd.io/s/SkAW-Jjt7): Going through the basics of Go!
 
-[10.23](https://hackmd.io/s/rJ2DpM6iQ): Some good information on Relations. (Published after the following post, but it is worth it to go in the order posted here)
+[10.23](https://hackmd.io/s/rJ2DpM6iQ): Some good information on Relations.
 
 [10.22](https://hackmd.io/s/B1bPV-HiQ): A Short introduction on Termination.
 
@@ -31,5 +35,7 @@ Enjoy!
 [12.15](https://hackmd.io/s/SylE1RGeV): Partial Correctness of a Loop
 
 [12.19](https://hackmd.io/s/S12--ePgN): My Blockchain in Go
+
+[12.20](https://hackmd.io/s/HyDe5lceV): Final Poost.
 ### Note:
 Many of the examples and some definitions are taken from Prof. Kurz [GitHub](https://github.com/alexhkurz/programming-languages)
